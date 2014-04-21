@@ -10,5 +10,5 @@ main()
 	
 	dice = rand() % 6 + 1;
 
-	printf("ã‚µã‚¤ã‚³ãƒ­ã¯%dã§ã™\n", dice);
+	printf("ƒTƒCƒRƒ‚Í%d‚Å‚·\n", dice);
 }
