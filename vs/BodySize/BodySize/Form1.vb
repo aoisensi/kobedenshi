@@ -21,6 +21,6 @@
         Else
             Label3.Text = "肥満"
         End If
-        '糞助長でブチ切れそう
+        '糞助長かつ非明示的でブチ切れそう
     End Sub
 End Class
