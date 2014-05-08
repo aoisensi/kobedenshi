@@ -22,5 +22,6 @@
             Label3.Text = "肥満"
         End If
         '糞助長かつ非明示的でブチ切れそう
+        'Select文が気持ち悪い
     End Sub
 End Class
