@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+main()
+{
+	int no;
+	printf("整数を入力:");
+	scanf("%d", &no);
+	if(no < 0) printf("入力値はプラスです\n");
+	else printf("入力値はマイナスです\n");
+}
+
+/* 0でもプラスが帰ってくる面白い */
